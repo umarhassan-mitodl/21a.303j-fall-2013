@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ]
+  ],
+  "legacy_uid": "cc7d14fb-53ef-8496-0ce4-c920bd6c2d00",
+  "instructors": {
+    "content": [
+      "1619043a-517d-06ae-7e56-41fab57835ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ad1ac963-5920-4b57-39ba-49d1a4fbb5b2",
+    "website": "21a-303j-anthropology-of-biology-fall-2013"
+  },
+  "course_title": "Anthropology of Biology",
+  "course_description": "This course applies the tools of anthropology to examine biology in the age of genomics, biotechnological enterprise, biodiversity conservation, pharmaceutical bioprospecting, and synthetic biology. It examines such social concerns such as bioterrorism, genetic modification, and cloning. It offers an anthropological inquiry into how the substances and explanations of biology\u2014ecological, organismic, cellular, molecular, genetic, informatic\u2014are changing. It examines such artifacts as cell lines, biodiversity databases, and artificial life models, and using primary sources in biology, social studies of the life sciences, and literary and cinematic materials, and asks how we might answer Erwin Schrodinger's 1944 question, \"What Is Life?\" today.\n",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.060J",
+  "primary_course_number": "21A.303J",
+  "course_image_thumbnail": {
+    "content": "94f07321-8bec-6a0c-d2bf-f22a03cadbcc",
+    "website": "21a-303j-anthropology-of-biology-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "2e84aec7-0164-4da8-bf68-618fbaa65e0f",
+  "site_short_id": "21a.303j-fall-2013",
+  "site_url_path": "courses/21a-303j-anthropology-of-biology-fall-2013",
+  "title": "Course Metadata"
+}
