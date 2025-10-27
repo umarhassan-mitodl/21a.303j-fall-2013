@@ -51,11 +51,11 @@ Class Participation
 
 ## Required Books
 
-Keller, Evelyn Fox. *The Mirage of a Space between Nature and Nurture*. Duke University Press Books, 2010. ISBN: 9780822347316. \[Preview with [Google Books](http://books.google.com/books?id=3up1Eo2OdzIC&pg=PAfrontcover)\]
+Keller, Evelyn Fox. *The Mirage of a Space between Nature and Nurture*. Duke University Press Books, 2010. ISBN: 9780822347316. \[Preview with {{% resource_link "4084365a-5a78-49d2-8f14-8956393c2bfe" "Google Books" %}}\]
 
-Landecker, Hannah. *Culturing Life: How Cells Became Technologies*. Harvard University Press, 2007. ISBN: 9780674023284. \[Preview with [Google Books](http://books.google.com/books?id=CCvjXK91T9QC&pg=PAfrontcover)\]
+Landecker, Hannah. *Culturing Life: How Cells Became Technologies*. Harvard University Press, 2007. ISBN: 9780674023284. \[Preview with {{% resource_link "82b47cf1-e5b2-4b64-8aa2-6bf7513bad5d" "Google Books" %}}\]
 
-Helmreich, Stefan. *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: 9780520250628. \[Preview with [Google Books](http://books.google.com/books?id=u1rXKH-SRHYC&pg=PAfrontcover)\]
+Helmreich, Stefan. *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 2009. ISBN: 9780520250628. \[Preview with {{% resource_link "3a36fe84-d284-4cc7-aeff-1d05aa3d051b" "Google Books" %}}\]
 
 ## Calendar
 
